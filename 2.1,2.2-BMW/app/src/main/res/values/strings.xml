@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4_2.2</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="hello">Hello</string>
+    <string name="error_field_required">This field is required</string>
+</resources>
